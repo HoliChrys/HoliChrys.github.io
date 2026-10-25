@@ -1,0 +1,11 @@
+title: HoliChrys
+description: Notes, projets et réflexions.
+author: Chrysostome Beltran
+url: "https://holichrys.github.io"
+baseurl: ""
+lang: fr
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
