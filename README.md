@@ -15,7 +15,7 @@ categories: blog
 Contenu en Markdown.
 ```
 
-Chaque push sur `main` reconstruit et déploie le site (`.github/workflows/jekyll.yml`).
+Chaque push sur `main` reconstruit et déploie le site (GitHub Pages, build depuis la branche `main`).
 
 ## En local
 ```bash
